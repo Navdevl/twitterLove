@@ -1,0 +1,25 @@
+{
+  "name": "TwitterLove - a quick check for tweepy library",
+  "description": "a quick check for tweepy library",
+  "repository": "https://github.com/Navdevl/twitterLove",
+  "logo": "https://www.python.org/static/community_logos/python-powered-w-200x80.png",
+  "keywords": ["python", "twitter", "tweepy"],
+  "env": {
+    "CONSUMER_KEY": {
+      "description": "Consumer key from your twitter app.",
+      "generator": "secret"
+    },
+    "CONSUMER_SECRET": {
+      "description": "Consumer secret from your twitter app.",
+      "generator": "secret"
+    },
+    "ACCESS_TOKEN_SECRET": {
+      "description": "Access token secret from your twitter app.",
+      "generator": "secret"
+    },
+    "ACCESS_TOKEN_KEY": {
+      "description": "Access token key from your twitter app.",
+      "generator": "secret"
+    }
+  }
+}
