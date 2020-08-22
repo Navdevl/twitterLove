@@ -7,19 +7,19 @@
   "env": {
     "CONSUMER_KEY": {
       "description": "Consumer key from your twitter app.",
-      "generator": "secret"
+      "value": ""
     },
     "CONSUMER_SECRET": {
       "description": "Consumer secret from your twitter app.",
-      "generator": "secret"
+      "value":  ""
     },
     "ACCESS_TOKEN_SECRET": {
       "description": "Access token secret from your twitter app.",
-      "generator": "secret"
+      "value":  ""
     },
     "ACCESS_TOKEN_KEY": {
       "description": "Access token key from your twitter app.",
-      "generator": "secret"
+      "value":  ""
     }
   }
 }
