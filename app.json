@@ -2,7 +2,7 @@
   "name": "TwitterLove - a quick check for tweepy library",
   "description": "a quick check for tweepy library",
   "repository": "https://github.com/Navdevl/twitterLove",
-  "logo": "https://www.python.org/static/community_logos/python-powered-w-200x80.png",
+  "logo": "https://cdn2.iconfinder.com/data/icons/minimalism/512/twitter.png",
   "keywords": ["python", "twitter", "tweepy"],
   "env": {
     "CONSUMER_KEY": {
